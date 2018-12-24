@@ -1,0 +1,25 @@
+1109,39,#TAB 1
+1339,39,#TAB 2
+1295,83,#URL bar
+1133,315,#twitterText
+995,130,#twitterBird
+14,80,121,#twitterBirdColour
+1000,311,#Garmin Triangle
+0,0,0,#Garmin tri colour
+1250,420,#inRDate
+1272,436,#inRDateBackup
+1240,455,#INRText
+1443,529,#INRMoreButton
+1331,463,#elv
+1295,498,#lat
+1433,498,#long
+1240,347,#first google form check
+244,105,55,#first google form check colour
+1051,722,#Tweet button
+1113,897,#Next button
+1762,523,#second google form check
+98,25,23,#second google form check colour
+1107,747,#first google text field
+1131,351,#third google form check
+244,105,55,#third google form check colour
+1130,558,#google another button
